@@ -101,6 +101,7 @@ table {
 .flex {
     display: flex;
     flex: 0 1 auto;
+    flex-flow: row nowrap;
 }
 .flex.col {
     flex-direction: column;
