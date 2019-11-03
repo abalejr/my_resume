@@ -47,6 +47,10 @@ li li {
     text-indent: -0.6em;
     margin-left: 1.6em;
 }
+#proficiency > div {
+    justify-content: space-between;
+}
 .proficiency {
     font-family: monospace;
+    text-align: center;
 }
